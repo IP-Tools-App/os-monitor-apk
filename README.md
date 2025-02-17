@@ -1,5 +1,5 @@
 # OS Monitor
-[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/os-monitor-apk/total.svg?color=blue?style=flat)](https://IP-Tools-App/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/os-monitor-apk??color=bluelabel=version)](https://IP-Tools-App/os-monitor-apk/releases)
+[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/os-monitor-apk/total.svg?color=blue?style=flat)](https://github.com/IP-Tools-App/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/os-monitor-apk??color=bluelabel=version)](https://github.com/IP-Tools-App/os-monitor-apk/releases)
 
 Powerful and simple monitoring for your Android device. The app displays various system components and resources, such as battery, CPU information, RAM usage, network manager. OS Monitor displays the processes of applications running on your Android device, as well as incoming and outgoing network traffic, so you can check the status of system components and see how installed applications affect your device's efficiency and performance.
 
