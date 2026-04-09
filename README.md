@@ -5,12 +5,12 @@ OS Monitor: system manager
 
 Get advanced tasks monitor, system usage detector and device battery info
 
-Lightweight real-time monitor for your Android device. OS Monitor displays live system metrics including system load, RAM usage, network traffic, battery status, and disk I/O — all presented with clear charts and detailed statistics. The app also provides comprehensive device information: hardware specs, display details, sensors, SIM card data, and more.
-
 Download os monitor apk
 
 [<img src="https://github.com/user-attachments/assets/d59468af-6545-4b1d-8ed3-31d4615a440f" alt="Get it on GitHub" height="80">](https://github.com/IP-Tools-App/os-monitor-apk/releases/latest)
 [<img src="https://github.com/user-attachments/assets/24c156e7-d720-4a4b-9c72-2e4551c642f5" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.activity)
+
+Lightweight real-time monitor for your Android device. OS Monitor displays live system metrics including system load, RAM usage, network traffic, battery status, and disk I/O — all presented with clear charts and detailed statistics. The app also provides comprehensive device information: hardware specs, display details, sensors, SIM card data, and more.
 
 ## Features
 * Real-time OS resources usage charts
