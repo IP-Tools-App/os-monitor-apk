@@ -1,7 +1,11 @@
 # OS Monitor
 [![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/os-monitor-apk/total.svg?color=blue?style=flat)](https://github.com/IP-Tools-App/ip-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/os-monitor-apk??color=bluelabel=version)](https://github.com/IP-Tools-App/os-monitor-apk/releases)
 
-Powerful and simple monitoring for your Android device. The app displays various system components and resources, such as battery, CPU information, RAM usage, network manager. OS Monitor displays the processes of applications running on your Android device, as well as incoming and outgoing network traffic, so you can check the status of system components and see how installed applications affect your device's efficiency and performance.
+OS Monitor: system manager
+
+Get advanced tasks monitor, system usage detector and device battery info
+
+Lightweight real-time monitor for your Android device. OS Monitor displays live system metrics including system load, RAM usage, network traffic, battery status, and disk I/O — all presented with clear charts and detailed statistics. The app also provides comprehensive device information: hardware specs, display details, sensors, SIM card data, and more.
 
 Download os monitor apk
 
@@ -9,20 +13,18 @@ Download os monitor apk
 [<img src="https://github.com/user-attachments/assets/24c156e7-d720-4a4b-9c72-2e4551c642f5" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.ddm.activity)
 
 ## Features
-* Tasks manager
-* Battery status and usage app
-* RAM, disk usage
-* CPU detector
-* Monitor mobile and wi-fi data
-* Proc Files Reader
-* And more ...
+* Real-time OS resources usage charts
+* Network traffic monitoring (received and transmitted)
+* Battery voltage and temperature tracking
+* Detailed device information (hardware, software, components)
+* System info: OS version, security patch, bootloader, kernel
 
 ## Screenshots
 <table>
   <tr>
     <td><img src="assets/screen1.png" alt="Battery usage and temperature"></td>
     <td><img src="assets/screen3.png" alt="Read files from proc folder"></td>
-    <td><img src="assets/screen2.png" alt="Tasks manager"></td>
+    <td><img src="assets/screen2.png" alt="Device info"></td>
 	</tr>
 </table>
 
